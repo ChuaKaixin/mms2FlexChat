@@ -8,7 +8,7 @@
         "@twilio/flex-ui": "1.13.0"
       }
     ],
-    "src": "http://localhost:8080/plugin-sms-media.js"
+    "src": "http://localhost:3000/plugin-sms-media.js"
   },
   {
     "name": "Admin Plugin",
